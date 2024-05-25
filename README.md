@@ -4,6 +4,8 @@ br
 hr
 a
 href
+img 
+src
 p
 pre
 h1
